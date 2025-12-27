@@ -1,6 +1,29 @@
-# 💫 About Me:
-👋 Hi, I’m Shashank R<br><br>🎓 AIML & Robotics Engineering Student<br>💻 Frontend Developer Intern | Web Developer<br><br>I’m passionate about building clean, responsive, and user-friendly web interfaces. Currently focused on strengthening my core web development skills while exploring backend and AI-driven applications.<br><br>🔹 What I work with<br><br>HTML, CSS, JavaScript<br><br>Responsive UI & Web Design<br><br>Basic Frontend Frameworks<br><br>Version Control (Git & GitHub)<br><br>🔹 What I’m learning<br><br>Advanced JavaScript & DOM<br><br>Java (Core → Backend concepts)<br><br>Python (for AI & automation)<br><br>🔹 Goals<br><br>Build real-world projects<br><br>Improve problem-solving and clean code practices<br><br>Grow as a full-stack developer with AI integration<br><br>📌 Always open to learning, collaborating, and building impactful projects.
+#About Me:
 
+👋 Hi, I’m Shashank R<br><br>
+
+🎓 AIML & Robotics Engineering Student<br>
+💻 Frontend Developer Intern | Web Developer<br><br>
+
+I’m passionate about building clean, responsive, and user-friendly web interfaces. I focus on strengthening my core web development skills while gradually exploring backend technologies and AI-driven applications.<br><br>
+
+🔹 What I work with<br><br>
+🌐 HTML, CSS, JavaScript for modern and responsive web development<br>
+🎨 Responsive UI & user-focused web design principles<br>
+⚙️ Basic frontend frameworks and component-based structures<br>
+🔧 Version control using Git & GitHub<br><br>
+
+🔹 What I’m learning<br><br>
+🧠 Advanced JavaScript concepts and deep DOM manipulation<br>
+☕ Java (core fundamentals moving towards backend development)<br>
+🐍 Python for automation, AI, and problem-solving applications<br><br>
+
+🔹 Goals<br><br>
+🚀 Build real-world, scalable projects with clean code practices<br>
+📈 Improve problem-solving ability and software design skills<br>
+🤖 Grow into a full-stack developer with strong AI integration<br><br>
+
+📌 Always open to learning, collaborating, and building impactful projects.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shashank-r-3590332b2/
