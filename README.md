@@ -1,30 +1,30 @@
-#About Me:
+#💫 About Me:
 
 👋 Hi, I’m Shashank R<br><br>
 
 🎓 AIML & Robotics Engineering Student<br>
 💻 Frontend Developer Intern | Web Developer<br><br>
 
-I’m passionate about building clean, responsive, and user-friendly web interfaces. I focus on strengthening my core web development skills while gradually exploring backend technologies and AI-driven applications.<br><br>
+I’m passionate about building clean, responsive, and user-friendly web interfaces. I enjoy creating smooth user experiences with animations while strengthening my core web development skills and exploring backend and AI-driven applications.<br><br>
 
 🔹 What I work with<br><br>
-🌐 HTML, CSS, JavaScript for modern and responsive web development<br>
-🎨 Responsive UI & user-focused web design principles<br>
-⚙️ Basic frontend frameworks and component-based structures<br>
+🌐 HTML, CSS, JavaScript for modern web development<br>
+🎨 Responsive UI & user-focused web design<br>
+✨ GSAP & Locomotive JS for smooth animations and scroll-based interactions<br>
+⚙️ Basic frontend frameworks and component-based layouts<br>
 🔧 Version control using Git & GitHub<br><br>
 
 🔹 What I’m learning<br><br>
-🧠 Advanced JavaScript concepts and deep DOM manipulation<br>
-☕ Java (core fundamentals moving towards backend development)<br>
-🐍 Python for automation, AI, and problem-solving applications<br><br>
+🧠 Advanced JavaScript concepts and DOM manipulation<br>
+☕ Java (core fundamentals → backend development)<br>
+🐍 Python for automation, AI, and intelligent applications<br><br>
 
 🔹 Goals<br><br>
-🚀 Build real-world, scalable projects with clean code practices<br>
-📈 Improve problem-solving ability and software design skills<br>
+🚀 Build real-world, interactive, and scalable projects<br>
+📈 Improve problem-solving skills and clean code practices<br>
 🤖 Grow into a full-stack developer with strong AI integration<br><br>
 
 📌 Always open to learning, collaborating, and building impactful projects.
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shashank-r-3590332b2/
 ) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shashankr6925@gmail.com) 
